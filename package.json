@@ -1,7 +1,7 @@
 {
-  "name": "johngrib.github.io",
+  "name": "do-spreadsheet.github.io",
   "version": "1.0.0",
-  "description": "data generator",
+  "description": "Talk about spreadsheet.",
   "main": "generateData.js",
   "dependencies": {
     "yamljs": "^0.3.0"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johngrib/johngrib.github.io.git"
+    "url": "git+https://github.com/Do-Spreadsheet/do-spreadsheet.github.io"
   },
-  "author": "John Grib",
+  "author": "Do Spreadsheet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johngrib/johngrib.github.io/issues"
+    "url": "https://github.com/Do-Spreadsheet/do-spreadsheet.github.io/issues"
   },
-  "homepage": "https://github.com/johngrib/johngrib.github.io#readme"
+  "homepage": "https://github.com/Do-Spreadsheet/do-spreadsheet.github.io#readme"
 }
