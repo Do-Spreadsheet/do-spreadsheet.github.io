@@ -10,9 +10,10 @@ regenerate: true
 ## wiki items
 
 * [[mathjax-latex]]
-* [[from-iTerm-vim]]
 * [[from-Obsidian-github]]
-    
+	* [[하위 개념 문서 연결 테스트]]
+	* [[하위 테스트2]]
+	    
 
 ---
 
