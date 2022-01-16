@@ -10,6 +10,9 @@ regenerate: true
 ## wiki items
 
 * [[mathjax-latex]]
+* [[from-iTerm-vim]]
+* [[from-Obsidian-github]]
+    
 
 ---
 
