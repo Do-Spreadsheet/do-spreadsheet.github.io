@@ -12,6 +12,8 @@ regenerate: true
 * [[from-Obsidian-github]]
 * [[하위 개념 문서 연결 테스트]]
 * [[하위 테스트2]]
+* [[vimwiki-obsidian sync]]
+* [[히스토리 관리]]
 
 ---
 
