@@ -1,0 +1,23 @@
+{
+  "name": "do-spreadsheet.github.io",
+  "version": "1.0.0",
+  "description": "Talk about spreadsheet.",
+  "main": "generateData.js",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo no test found"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Do-Spreadsheet/do-spreadsheet.github.io"
+  },
+  "author": "Do Spreadsheet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Do-Spreadsheet/do-spreadsheet.github.io/issues"
+  },
+  "homepage": "https://github.com/Do-Spreadsheet/do-spreadsheet.github.io#readme"
+}

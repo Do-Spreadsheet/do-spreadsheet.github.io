@@ -1,0 +1,63 @@
+# Site settings
+title: Do Spreadsheet
+url: "https://do-spreadsheet.github.io"
+baseurl: ""
+description: >
+    Do Spreadsheet
+
+# My information
+email: everyday.spreadsheet@gmail.com
+author: Do Spreadsheet
+profile: Talk about spreadsheet
+twitter_username: Do_Spreadsheet
+github_username: do-spreadsheet
+comment-support: utterances
+
+# Build settings
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+paginate: 10
+paginator_path: "/blog"
+paginate_path: "/blog/page:num/"
+
+# Collections
+collections:
+    wiki:
+        output: true
+        permalink: /:collection/:path/
+
+# Comment Service
+disqus:
+  id: dospreadsheet
+  shortname: do-spreadsheet
+utterances:
+  repo: do-spreadsheet/do-spreadsheet.github.io
+  issue-term: url
+  label: Comment
+  branch: master
+
+google_analytics:
+  ua: UA-217306310-1
+
+google_adsense:
+  client: ca-pub-1267491171214308
+
+blame: "https://github.com/do-spreadsheet/do-spreadsheet.github.io/blame/master/_wiki"
+edit: "https://github.com/do-spreadsheet/do-spreadsheet.github.io/edit/master/_wiki"
+issue: "https://github.com/do-spreadsheet/do-spreadsheet.github.io/issues/new"
+
+timezone: "Asia/Seoul"
+
+# https://kramdown.gettalong.org/rdoc/Kramdown/Options.html - smart_quotes
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
