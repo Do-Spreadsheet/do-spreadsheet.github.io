@@ -4,10 +4,10 @@ title : from-Obsidian-github
 summary :
 date : 2022-01-16 17:02:46 +0900
 updated : 2022-01-16 17:08:00 +0900
-tag : [obsidian, github]
+tag : obsidian github
 toc : true
 public : true
-parent : 
+parent : index
 latex : false
 ---
 
