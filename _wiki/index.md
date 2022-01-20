@@ -14,6 +14,7 @@ regenerate: true
 * [[하위 테스트2]]
 * [[vimwiki-obsidian sync]]
 * [[히스토리 관리]]
+* [[do-spreadsheet.github.io/_wiki/how-to]]
 
 ---
 
