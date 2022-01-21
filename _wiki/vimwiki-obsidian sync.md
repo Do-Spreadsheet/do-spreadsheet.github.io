@@ -7,7 +7,7 @@ updated : 2022-01-19 01:28:47 +0900
 tag : obsidian vimwiki
 toc : true
 public : true
-parent : [[do-spreadsheet.github.io/_wiki/index]]
+parent : [[index]]
 latex : false
 ---
 

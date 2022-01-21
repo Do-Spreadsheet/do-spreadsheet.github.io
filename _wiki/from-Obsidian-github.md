@@ -7,7 +7,7 @@ updated : 2022-01-16 17:08:00 +0900
 tag : obsidian github
 toc : true
 public : true
-parent : [[do-spreadsheet.github.io/_wiki/index]]
+parent : [[index]]
 latex : false
 ---
 
