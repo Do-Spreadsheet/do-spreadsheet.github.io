@@ -27,4 +27,3 @@ regenerate: true
 {% endfor %}
     </ul>
 </div>
-

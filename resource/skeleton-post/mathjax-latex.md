@@ -47,14 +47,14 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
  1 & a_1 & a_1^2 & \cdots & a_1^n \\
  1 & a_2 & a_2^2 & \cdots & a_2^n \\
  \vdots  & \vdots& \vdots & \ddots & \vdots \\
- 1 & a_m & a_m^2 & \cdots & a_m^n    
+ 1 & a_m & a_m^2 & \cdots & a_m^n
  \end{pmatrix}
 ```
 $$\begin{pmatrix}
  1 & a_1 & a_1^2 & \cdots & a_1^n \\
  1 & a_2 & a_2^2 & \cdots & a_2^n \\
  \vdots  & \vdots& \vdots & \ddots & \vdots \\
- 1 & a_m & a_m^2 & \cdots & a_m^n    
+ 1 & a_m & a_m^2 & \cdots & a_m^n
  \end{pmatrix}$$
 
 * 나눗셈
@@ -91,4 +91,3 @@ $$
 * [MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference): 많은 예제가 있어 참고할 만하다.
 * [jsbin.com/zimuxulawu](http://jsbin.com/zimuxulawu/edit?html,output): 여기서 연습해 볼 수 있다.
 * [detexify.kirelabs.org/classify.html](http://detexify.kirelabs.org/classify.html): 내가 찾는 기호와 유사한 기호의 목록과 latex 코드를 제안해준다.
-

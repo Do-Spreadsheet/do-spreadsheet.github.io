@@ -22,4 +22,3 @@ mv ./new-about.md about.md
 
 git fetch skeleton
 git reset skeleton/master
-

@@ -7,4 +7,3 @@ latex: true
 ---
 * TOC
 {:toc}
-
