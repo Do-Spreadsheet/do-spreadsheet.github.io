@@ -16,6 +16,7 @@ regenerate: true
 * [[히스토리 관리]]
 * [[how-to]]
 - [[auto commit from ipad]]
+- [[git hook test on iPad]]
 
 ---
 
