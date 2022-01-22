@@ -15,7 +15,7 @@ regenerate: true
 * [[vimwiki-obsidian sync]]
 * [[히스토리 관리]]
 * [[how-to]]
-[[auto commit from ipad]]
+- [[auto commit from ipad]]
 
 ---
 
