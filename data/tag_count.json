@@ -1,5 +1,9 @@
 [
  {
+  "name": "git",
+  "size": 1
+ },
+ {
   "name": "github",
   "size": 1
  },
@@ -13,7 +17,7 @@
  },
  {
   "name": "obsidian",
-  "size": 5
+  "size": 6
  },
  {
   "name": "tag",
