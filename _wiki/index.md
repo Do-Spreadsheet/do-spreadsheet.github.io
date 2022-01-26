@@ -17,6 +17,7 @@ regenerate: true
 * [[how-to]]
 - [[auto commit from ipad]]
 - [[git hook test on iPad]]
+- [[templater plugin update test]]
 
 ---
 
