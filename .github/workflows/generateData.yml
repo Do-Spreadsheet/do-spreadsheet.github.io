@@ -7,7 +7,8 @@ on:
   pull_request:
     branches: [ master ]
 
-steps:
-  - name: run generateData.js
-    run: |
-      node generateData.js
+jobs:
+  steps:
+    - name: run generateData.js
+    - run: |
+        node generateData.js
