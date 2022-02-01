@@ -3,7 +3,7 @@ layout : wiki
 title : Pre-commit from Github action
 summary :
 date : 2022-02-01 23:48:30 +0900
-updated : <%+ tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %> +0900
+updated : 2022-02-01 23:58:00 +0900
 tag : git github
 toc : true
 public : true
