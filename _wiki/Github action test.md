@@ -4,10 +4,10 @@ title : Github action test
 summary :
 date : 2022-02-01 22:01:28 +0900
 updated : 2022-02-01 22:02:00 +0900
-tag : 
+tag :
 toc : true
 public : true
-parent : git
+parent : [[git]]
 latex : false
 ---
 
