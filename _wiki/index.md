@@ -19,7 +19,7 @@ regenerate: true
 - [[git hook test on iPad]]
 - [[templater plugin update test]]
 - [[Github action test]]
-
+- [[Pre-commit from Github action]]
 ---
 
 ## blog posts
