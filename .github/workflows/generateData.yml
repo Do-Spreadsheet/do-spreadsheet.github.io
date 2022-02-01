@@ -1,14 +1,21 @@
 name: generateData
 
 on:
-  # Triggers the workflow on push events but only for the master branch
   push:
     branches: [ master ]
   pull_request:
     branches: [ master ]
 
 jobs:
-  steps:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x, 16.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
     - name: run generateData.js
-    - run: |
-        node generateData.js
+    - run: node generateData.js
