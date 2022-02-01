@@ -15,3 +15,4 @@ latex : false
 {:toc}
 
 Github action 세팅 중에 오류가 많았는데 자동으로 잘 잡히는지 테스트.
+parent 연동이 어디서 작동하는지 리체크.
