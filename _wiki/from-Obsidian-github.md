@@ -21,3 +21,4 @@ Obsidian에서 확인하는 문서 생성
 - [[히스토리 관리]]
 - [[콘텐츠 리스트업]]
 - [[auto commit from ipad]]
+- [[Github action test]]
