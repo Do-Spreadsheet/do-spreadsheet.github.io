@@ -25,6 +25,8 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  # https://kramdown.gettalong.org/rdoc/Kramdown/Options.html - smart_quotes
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 paginate: 10
 paginator_path: "/blog"
@@ -59,5 +61,5 @@ issue: "https://github.com/do-spreadsheet/do-spreadsheet.github.io/issues/new"
 timezone: "Asia/Seoul"
 
 # https://kramdown.gettalong.org/rdoc/Kramdown/Options.html - smart_quotes
-kramdown:
-    smart_quotes: ["apos", "apos", "quot", "quot"]
+# kramdown:
+    # smart_quotes: ["apos", "apos", "quot", "quot"]
