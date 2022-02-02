@@ -22,3 +22,4 @@ Obsidian에서 확인하는 문서 생성
 - [[콘텐츠 리스트업]]
 - [[auto commit from ipad]]
 - [[Github action test]]
+- [[Pre-commit from Github action]]
