@@ -12,3 +12,8 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/setup-python@v2
     - uses: pre-commit/action@v2.0.3
+    
+    - name: Git add
+    - run: |
+          git add _data
+          git add data
