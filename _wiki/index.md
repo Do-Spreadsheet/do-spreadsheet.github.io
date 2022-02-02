@@ -23,7 +23,7 @@ regenerate: true
 
 ---
 
-## blog posts
+<!-- ## blog posts
 <div>
     <ul>
 {% for post in site.posts %}
@@ -36,4 +36,4 @@ regenerate: true
     {% endif %}
 {% endfor %}
     </ul>
-</div>
+</div> -->
