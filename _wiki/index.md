@@ -20,6 +20,7 @@ regenerate: true
 - [[templater plugin update test]]
 - [[Github action test]]
 - [[Pre-commit from Github action]]
+- [[Templater update re-test]]
 
 ---
 
